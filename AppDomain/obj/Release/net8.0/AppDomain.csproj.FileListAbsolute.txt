@@ -1,0 +1,12 @@
+/home/fiberme/FiberMeDashboard/AppDomain/bin/Release/net8.0/AppDomain.deps.json
+/home/fiberme/FiberMeDashboard/AppDomain/bin/Release/net8.0/AppDomain.dll
+/home/fiberme/FiberMeDashboard/AppDomain/bin/Release/net8.0/AppDomain.pdb
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.GeneratedMSBuildEditorConfig.editorconfig
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.AssemblyInfoInputs.cache
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.AssemblyInfo.cs
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.csproj.CoreCompileInputs.cache
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.sourcelink.json
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.dll
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/refint/AppDomain.dll
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/AppDomain.pdb
+/home/fiberme/FiberMeDashboard/AppDomain/obj/Release/net8.0/ref/AppDomain.dll

@@ -1,0 +1,16 @@
+/home/fiberme/FiberMeDashboard/AppCore/bin/Release/net8.0/AppCore.deps.json
+/home/fiberme/FiberMeDashboard/AppCore/bin/Release/net8.0/AppCore.dll
+/home/fiberme/FiberMeDashboard/AppCore/bin/Release/net8.0/AppCore.pdb
+/home/fiberme/FiberMeDashboard/AppCore/bin/Release/net8.0/AppDomain.dll
+/home/fiberme/FiberMeDashboard/AppCore/bin/Release/net8.0/AppDomain.pdb
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.csproj.AssemblyReference.cache
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.AssemblyInfoInputs.cache
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.AssemblyInfo.cs
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.csproj.CoreCompileInputs.cache
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.sourcelink.json
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.csproj.Up2Date
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.dll
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/refint/AppCore.dll
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/AppCore.pdb
+/home/fiberme/FiberMeDashboard/AppCore/obj/Release/net8.0/ref/AppCore.dll
